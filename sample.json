@@ -1,7 +1,7 @@
 {
     "nodes": [
       { "id": "organizations-274462", "name": "GRAF" } ,
-      { "id": "persons-1497994", "name": "Giovanni Bellon" } ,
+      { "id": "persons-1497994", "name": "Giovanni Bellon", "title": "właściciel" } ,
       { "id": "shadow-persons-2943280", "name": "Arianna Bellon" } ,
       { "id": "shadow-persons-2943281", "name": "Isacco Bellon" } ,
       { "id": "persons-2848815", "name": "Anna Biasion Bellon" } ,
