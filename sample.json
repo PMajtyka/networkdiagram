@@ -12,7 +12,8 @@
       {"source": "organizations-274462", "target": "shadow-persons-2943280", "label": "pracownik" } ,
       {"source": "organizations-274462", "target": "shadow-persons-2943281", "label": "pracownik" } ,
       {"source": "organizations-274462", "target": "persons-2848815", "label": "pracownik" } ,
-      {"source": "persons-2848815", "target": "persons-2848812", "label": "syn" }   
+      {"source": "persons-2848815", "target": "persons-2848812", "label": "syn" }  ,
+      {"source": "shadow-persons-2943280", "target": "persons-2848812", "label": "mąż" }    
     ]
   }
 
