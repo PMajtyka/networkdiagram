@@ -1,11 +1,11 @@
 {
     "nodes": [
-      { "id": "organizations-274462", "name": "GRAF", "type": "organizacja" } ,
-      { "id": "persons-1497994", "name": "Giovanni Bellon", "type": "osoba" } ,
-      { "id": "shadow-persons-2943280", "name": "Arianna Bellon", "type": "osoba" } ,
-      { "id": "shadow-persons-2943281", "name": "Isacco Bellon", "type": "osoba" } ,
-      { "id": "persons-2848815", "name": "Anna Biasion Bellon", "type": "osoba" } ,
-      { "id": "persons-2848812", "name": "Andrzejek", "type": "osoba" }   
+      { "id": "organizations-274462", "name": "Fundacja", "type": "organizacja" } ,
+      { "id": "persons-1497994", "name": "Giovanni Quadroni", "type": "osoba" } ,
+      { "id": "shadow-persons-2943280", "name": "Arianna Quadroni", "type": "osoba" } ,
+      { "id": "shadow-persons-2943281", "name": "Isacco Quadroni", "type": "osoba" } ,
+      { "id": "persons-2848815", "name": "Anna Biasion Quadroni", "type": "osoba" } ,
+      { "id": "persons-2848812", "name": "Andrew Quadroni", "type": "osoba" }   
     ],
     "links": [
       {"source": "organizations-274462", "target": "persons-1497994", "label": "prezes" } ,
