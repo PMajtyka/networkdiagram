@@ -7,13 +7,13 @@
       { "id": "persons-2848815", "name": "Anna Biasion Bellon" } 
     ],
     "links": [
-      { "id": "O-274462-P-9", "source": "organizations-274462", "target": "persons-1497994" } ,
-      { "id": "O-274462-P-1", "source": "organizations-274462", "target": "persons-1497994" } ,
-      { "id": "O-274462-SP-5", "source": "organizations-274462", "target": "shadow-persons-2943280" } ,
-      { "id": "O-274462-SP-12", "source": "organizations-274462", "target": "shadow-persons-2943281" } ,
-      { "id": "O-274462-SP-6", "source": "organizations-274462", "target": "shadow-persons-2943281" } ,
-      { "id": "O-274462-P-11", "source": "organizations-274462", "target": "persons-2848815" } ,
-      { "id": "O-274462-P-4", "source": "organizations-274462", "target": "persons-2848815" } 
+      {"source": "organizations-274462", "target": "persons-1497994" } ,
+      {"source": "organizations-274462", "target": "persons-1497994" } ,
+      {"source": "organizations-274462", "target": "shadow-persons-2943280" } ,
+      {"source": "organizations-274462", "target": "shadow-persons-2943281" } ,
+      {"source": "organizations-274462", "target": "shadow-persons-2943281" } ,
+      {"source": "organizations-274462", "target": "persons-2848815" } ,
+      {"source": "organizations-274462", "target": "persons-2848815" } 
     ]
   }
 
